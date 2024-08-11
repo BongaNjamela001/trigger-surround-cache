@@ -4,7 +4,7 @@
 This project implements a Trigger Surround Cache (TSC) module using Verilog. The TSC module is designed as part of a transient trigger detection system, which is used to detect environmental changes or signals from other parts of a system. The project follows a top-down design approach, starting with high-level design and progressing through low-level design and gate-level simulation.
 
 ## Authors
-- Bonga Njamela
+- Bonga Njamela (First Author)
 - Karan Abraham (https://github.com/karanimaan/Prac-5--Verilog)
 
 ## Institution
